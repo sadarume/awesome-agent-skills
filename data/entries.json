@@ -398,5 +398,13 @@
     "license": "MIT",
     "verified": "2026-10-17",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "waynehamadi/datacircle",
+    "category": "know",
+    "description": "Skill that finds the best GTM API for a job, with prices and scores from real calls. By the maintainer.",
+    "license": "MIT",
+    "verified": "2026-11-17",
+    "last_commit": "2026-11-16"
   }
 ]
