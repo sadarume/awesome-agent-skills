@@ -97,6 +97,7 @@ Skills that gather, summarize and organize information.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ![stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&label=%E2%98%85) - Researches a topic across Reddit, X, YouTube, Hacker News and the web, then summarizes it. _(MIT)_
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) ![stars](https://img.shields.io/github/stars/teng-lin/notebooklm-py?style=flat&label=%E2%98%85) - Unofficial Python API and agent skill for Google's notebook tool. Unofficial, so it can break. _(MIT)_
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) ![stars](https://img.shields.io/github/stars/virgiliojr94/book-to-skill?style=flat&label=%E2%98%85) - Turns a technical book PDF into a Claude Code skill. _(MIT)_
+- [waynehamadi/datacircle](https://github.com/waynehamadi/datacircle) ![stars](https://img.shields.io/github/stars/waynehamadi/datacircle?style=flat&label=%E2%98%85) - Skill that finds the best GTM API for a job, with prices and scores from real calls. By the maintainer. _(MIT)_
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ![stars](https://img.shields.io/github/stars/yusufkaraaslan/Skill_Seekers?style=flat&label=%E2%98%85) - Turns docs sites, GitHub repos and PDFs into Claude skills. _(MIT)_
 
 ## Writing
@@ -157,7 +158,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). One repo per pull request, plain words, 
 ## About
 
 Maintained by [@devanasolver](https://github.com/devanasolver), who also builds [AIRankWP](https://airankwp.com), a WordPress plugin for AI-search visibility. Listings follow the rules in CONTRIBUTING, not ownership.
-
-## Support
-
-If you find this project useful, [buy me a coffee](https://buymeacoffee.com/isaac49).
